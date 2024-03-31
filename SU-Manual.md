@@ -9,8 +9,6 @@ Pengisian Daya TYPE-C dan Basis-dudukan/200 Saluran/
 Radio FM Fungsional/Demodulasi SSB-AM-FM/SMS
 ```
 
----
-
 ```
 ̶F̶C̶C̶ ̶W̶A̶R̶N̶I̶N̶G̶
 
@@ -118,7 +116,5 @@ Radio FM Fungsional/Demodulasi SSB-AM-FM/SMS
 ̶s̶o̶n̶t̶ ̶l̶i̶m̶i̶t̶é̶e̶s̶ ̶a̶u̶x̶ ̶a̶c̶c̶e̶s̶s̶o̶i̶r̶e̶s̶ ̶d̶'̶o̶r̶i̶g̶i̶n̶e̶ ̶a̶p̶p̶r̶o̶u̶v̶é̶s̶ ̶(̶c̶l̶i̶p̶ ̶d̶e̶ ̶c̶e̶i̶n̶t̶u̶r̶e̶)̶,̶ ̶u̶n̶e̶ ̶d̶i̶s̶t̶a̶n̶c̶e̶
 ̶m̶i̶n̶i̶m̶a̶l̶e̶ ̶d̶e̶ ̶0̶ ̶c̶m̶.
 ```
-
----
 
 ...
