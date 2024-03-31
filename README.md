@@ -1,5 +1,5 @@
-# Untuk dilakukan
+# Menulis
 
-[ ] [Panduan Pengguna Super][./SU-Manual.md]
+- [ ] [Panduan Pengguna Super](./SU-Manual.md)
 
 ...
