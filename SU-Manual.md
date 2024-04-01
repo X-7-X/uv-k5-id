@@ -117,4 +117,20 @@ Radio FM Fungsional/Demodulasi SSB-AM-FM/SMS
 ̶m̶i̶n̶i̶m̶a̶l̶e̶ ̶d̶e̶ ̶0̶ ̶c̶m̶.
 ```
 
+## PERHATIAN SEBELUM MENGGUNAKAN
+
+Radio ini menggabungkan desain luar biasa dan teknologi canggih terkini.
+Saran berikut akan membantu Anda memenuhi kewajiban Anda dalam bergaransi.
+Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabel ini dengan aman.
+- Harap letakkan radio dan aksesorinya di tempat yang tidak dapat dijangkau oleh anak-anak yang rewel.
+- Pemeliharaan hanya dapat dilakukan oleh teknisi profesional, jika tidak ingin menghancurkan radio.
+- Harap gunakan baterai dan pengisi daya standar agar tidak menghancurkan radio.
+- Harap gunakan antena standar atau gunakan yang asli, agar tidak memperpendek jarak komunikasi.
+- Jangan biarkan radio terkena sinar matahari dalam waktu lama, atau meletakkannya di dekat api.
+- Jangan meletakkan radio di lingkungan yang sangat berdebu atau basah.
+- Jangan membersihkan radio dengan produk kimia yang keras, bahan pembersih atau bahan pencuci yang kuat.
+- Jangan melakukan transmisi saat antena tidak dipasang.
+- Jika Anda menemukan bau tidak sedap atau kabut asap, segera matikan radio.
+  Dan lepas baterai radio, lalu hubungi agen terkait.
+
 ...
