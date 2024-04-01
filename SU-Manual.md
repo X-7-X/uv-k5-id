@@ -151,4 +151,12 @@ Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabe
 - Jika Anda memiliki pertanyaan tentang baterai dan aksesori yang bukan asli pabrikan,
   mohon jangan menggunakannya. Atau akan menyebabkan kecelakaan berbahaya.
 
+## Instruksi Pengisi Daya Basis-dudukan
+
+- Colokkan baterai litium atau radio yang terpasang dengan baterai litium ke dudukan pengisi daya,
+  dan pastikan baterai berada dalam kontak normal dengan dudukan pengisi daya.
+- Lampu hijau menyala stabil saat dudukan pengisi daya tidak digunakan; Ketika lampu merah menyala,
+  pengisian daya dimulai; Saat penuh, lampu hijau menyala stabil.
+- Setelah baterai litium terisi penuh, keluarkan dari pengisi daya.
+
 ...
