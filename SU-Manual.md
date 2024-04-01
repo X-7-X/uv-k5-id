@@ -133,4 +133,22 @@ Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabe
 - Jika Anda menemukan bau tidak sedap atau kabut asap, segera matikan radio.
   Dan lepas baterai radio, lalu hubungi agen terkait.
 
+## Catatan Pengisian Daya
+
+- Paket baterai tidak diisi dayanya saat dikirim. Isilah dayanya sebelum digunakan.
+- Mengisi daya baterai terlebih dahulu setelah pembelian atau penyimpanan yang lama
+  (lebih dari 2 bulan) tidak akan membuat baterai mencapai kapasitas terbesar atau daya normalnya,
+  yang hanya dapat dilakukan setelah pengisian dan pengosongan berulang kali dua atau tiga kali.
+- Jangan gunakan radio saat mengisi daya. Hal ini akan memengaruhi pengisian normal baterai,
+  menyebabkan kerusakan pada radio dan kecelakaan.
+- Setelah baterai terisi penuh, harap keluarkan dari dudukan pengisi daya.
+  Jangan isi dayanya lagi sebelum daya baterai benar-benar habis.
+  Atau itu akan merusak efek memori baterai.
+- Meskipun menggunakan cara pengisian daya yang benar,
+  tetapi jika baterai tidak bertambah kapasitasnya atau tidak dapat digunakan,
+  ini berarti masa pakai baterai hampir habis, harap ganti dengan baterai baru.
+- Harap gunakan baterai dan pengisi daya asli pabrikan. Mereka tersedia di agen lokal Anda.
+- Jika Anda memiliki pertanyaan tentang baterai dan aksesori yang bukan asli pabrikan,
+  mohon jangan menggunakannya. Atau akan menyebabkan kecelakaan berbahaya.
+
 ...
