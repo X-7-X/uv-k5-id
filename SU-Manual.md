@@ -159,4 +159,15 @@ Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabe
   pengisian daya dimulai; Saat penuh, lampu hijau menyala stabil.
 - Setelah baterai litium terisi penuh, keluarkan dari pengisi daya.
 
+## Instruksi Pengisi Daya TYPE-C
+
+- Pengisi daya TYPE-C hanya digunakan untuk pengisian daya darurat.
+  Gunakan pengisi daya basis-dudukan untuk pengisian daya normal.
+- Logo kepala pengisian daya TYPE-C ditampilkan di layar saat dimulai dan mengisi daya.
+- Mematikan tidak memengaruhi pengisian daya TYPE-C.
+- Saat mengisi daya, lampu biru akan menyala lama,
+  dan lampu biru akan berkedip untuk menandakan bahwa pengisian daya akan segera selesai.
+- Setelah pengisian daya TYPE-C, lampu biru akan dimatikan.
+- Jangan melepas baterai saat mengisi daya melalui TYPE-C.
+
 ...
