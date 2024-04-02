@@ -4,7 +4,7 @@ RADIO DUA-ARAH MULTIFUNGSI
 Panduan Pengguna Super
 
 Analisa Spektrum Frekuensi/Salin Cepat Satu Saluran/VOX/
-Transmisi Multi-Band dan Penerimaan 18—660MHz 840—1300MHz/
+Transmisi Multi-Band dan Penerimaan 18∽660MHz 840∽1300MHz/
 Pengisian Daya TYPE-C dan Basis-dudukan/200 Saluran/
 Radio FM Fungsional/Demodulasi SSB-AM-FM/SMS
 ```
@@ -181,5 +181,56 @@ Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabe
 2. Saat daya radio terisi (baik basis-dudukan maupun TYPE-C), efek penerimaan akan terpengaruh.
 3. Jangan menyebabkan hubungan arus pendek pada terminal baterai atau membuang baterai ke dalam api.
 4. Jangan melepas penutup baterai tanpa izin.
+
+## Fitur Utama
+
+- *200 Channel*
+- *Cross-Band Intercom*
+- *1750Hz Call Tone*
+- *Program On Site*
+- *Emergency Alert*
+- *Functional FM Radio*
+- *10-Group Scrambler*
+- *Multi-Scan Range Adjustable*
+- *CTCSS/DCS*
+- *Remote Kill/Revive*
+- *Keypad Lock*
+- *Jacklight*
+- *PC Programmable/Hackable*
+- *Busy Channel Lock*
+- *VOX*
+- *Dual-watch Operation*
+- *Time-Out-Timer*
+- *VFO/ALL Reset*
+- *Large LCD Display*
+- *Voice Prompt*
+- *Reminding Switch*
+- *Multi Display of Channel No./Channel Frequency/Channel Name*
+- *H (High)， M (Medium)， and L (Low) Output Power Selective*
+- *Multi-Band Transmitting & 18∽660MHz 840∽1300MHz Receiving*
+- *Receive/Transmit Code Settings Separately*
+- *High Capacity Battery\Long Standby Time*
+- *Fast Copy One Channel (ACT AS FREQUENCY METER (FOR TWO-WAY RADIO & SOME OTHER DEVICES))*
+- *Power-on Password Protection*
+- *SSB/AM/FM Aviation Band Receiving*
+- *Reverse Frequency Function*
+- *TYPE-C and Charger-base Charging*
+- *Wide/Narrow Bandwidth*
+- *Offset Frequency Direction Set1*
+- *Wireless Radio Replication*
+- *Squelch Level Adjustable*
+- *Repeater Forwarding Confirmation Function*
+- *Frequency and Channel Mode Shift*
+- *Offset Frequency Settings*
+- *Channel Scan and Add*
+- *Backlight Auto Off Time Selective*
+- *Automatic Signaling Search*
+- *Multi Step Frequency*
+- *One Key Call Channel*
+- *Fast and Advanced Frequency Spectrum Analyzer*
+- *Encryptable Messaging and Message Hopping Mesh (NUNU PROTOCOL)*
+- *Configurable Button Functions (SHORT & LONG SIDE 1/SIDE 2/MENU)*
+- *Battery Voltage Calibration (FOR PERCENTAGE MEASURING)*
+- *Informative UI with useful meters*
 
 ...
