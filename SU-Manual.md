@@ -170,4 +170,16 @@ Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabe
 - Setelah pengisian daya TYPE-C, lampu biru akan dimatikan.
 - Jangan melepas baterai saat mengisi daya melalui TYPE-C.
 
+> Terdapat dua versi dari seri ini:  
+> Radio dengan pengisian daya TYPE-C; Radio B tidak memiliki pengisian daya TYPE-C.  
+> Konfigurasi produk sesuai dengan pembelian Anda yang sebenarnya.
+
+### Catatan
+
+1. Saat mengisi daya radio (baik basis-dudukan maupun TYPE-C),
+   dilarang melakukan transmisi untuk menghindari kerusakan pada radio dan bahaya yang tidak disengaja.
+2. Saat daya radio terisi (baik basis-dudukan maupun TYPE-C), efek penerimaan akan terpengaruh.
+3. Jangan menyebabkan hubungan arus pendek pada terminal baterai atau membuang baterai ke dalam api.
+4. Jangan melepas penutup baterai tanpa izin.
+
 ...
