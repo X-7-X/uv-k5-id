@@ -154,4 +154,15 @@ Kami menyarankan Anda memeriksa barang-barang berikut sebelum membuang bahan kem
 <img align="center" width="96%" src="./src-images/accessories-photo.webp"/>
 </pre>
 
+## Diagram Radio
+
+<pre align="center">
+<img align="center" width="96%" src="./src-images/radio-diagram.webp"/>
+</pre>
+
+<p align="center">
+Fungsi pengisian daya TYPE-C pada rangkaian produk ini bersifat opsional.<br>
+Konfigurasi produk sesuai dengan pembelian Anda yang sebenarnya.
+</p>
+
 ...
