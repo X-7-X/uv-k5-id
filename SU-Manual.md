@@ -132,4 +132,26 @@ Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabe
 - *Battery Voltage Calibration (FOR PERCENTAGE MEASURING)*
 - *Informative UI with useful meters*
 
+## Aksesori Yang Disertakan
+
+Buka kemasan radio portabel dengan hati-hati.
+Kami menyarankan Anda memeriksa barang-barang berikut sebelum membuang bahan kemasan.
+
+### Aksesori Standar
+
+| Barang | Jumlah |
+|:---|:---:|
+| Radio Portabel | 1 |
+| Antena | 1 |
+| Baterai Li-ion | 1 |
+| Pengisi Daya Baterai | 1 |
+| Klip Sabuk | 1 |
+| Panduan Pengguna Asli | 1 |
+
+### Foto Aksesori
+
+<pre align="center">
+<img align="center" width="96%" src="./src-images/accessories-photo.webp"/>
+</pre>
+
 ...
