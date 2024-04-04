@@ -13,7 +13,7 @@ Sedang diusahakan untuk,
 > [!IMPORTANT]
 > <div align="justify">
 > Penulisan ini, maksud kami perobohan aturan FCC dan lisensi terkait, didasarkan pada produk asli
-> <a href="http://en.qsfj.com">Quansheng</a>, tanpa di-<i>endorse</i>, dengan <b>UV-K5(8)</b> atau
+> <a href="http://en.qsfj.com">Quansheng</a> tanpa di-<i>endorse</i>, dengan <b>UV-K5(8)</b> atau
 > <b>UV-K6</b> secara internasional dan <b>UV-K5</b> sebagai objek.
 > </div>
 
