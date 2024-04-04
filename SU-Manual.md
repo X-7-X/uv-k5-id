@@ -171,4 +171,40 @@ Anda dapat memeriksa simbol-simbol berbeda yang ditunjuk di LCD.
 
 <!-- Mungkin akan diperbarui pada suatu saat nanti. -->
 
+## Tombol
+
+### Tombol PTT (Tombol Transmisi)
+
+**Tombol Saklar Transmisi/Penerimaan.**
+
+Tekan "PTT" untuk mengirim dan berbicara ke mikrofon. Lepaskan "PTT" untuk menerima.
+
+### Tombol Fungsi Yang Dapat Diatur Dan Fungsinya
+
+| Fungsi | Aksi |
+|:---|:---|
+| `NONE` | Tiada aksi. |
+| `FLASH LIGHT` | Non/Aktifkan fungsi Jacklight: NYALA/KEDIP/SOS. |
+| `POWER` | Ubah Daya Keluaran Radio: H (TINGGI)/M (SEDANG)/L (RENDAH). |
+| `MONITOR` | Non/Aktifkan fungsi Monitor. |
+| `SCAN` | Mulai Pemindaian di mode saluran/frekuensi. |
+| `VOX` | Non/Aktifkan VOX, transmisikan suara secara terus-menerus. |
+| `FM RADIO` | Non/Aktifkan mode Radio FM. |
+| `LOCK KEYPAD` | Buka/Kunci Papan Tombol. |
+| `SWITCH VFO` | Beralih VFO utama: ATAS/BAWAH. |
+| `VFO/MR` | Ubah mode VFO saat ini: SALURAN/FREKUENSI. |
+| `SWITCH DEMODUL` | Ubah Demodulasi: USB (SSB)/AM/FM. |
+| `SWITCH BANDWIDTH` | Ubah Lebar Pita saat ini. |
+| `SPECTRUM` | Aktifkan mode Analisa Spektrum Frekuensi di mode saluran/frekuensi. |
+
+**Fungsi Yang Disarankan (@owl4ce)**
+
+| Menu | Fungsi | Aksi |
+|:---|:---|:---|
+| `F1Shrt` | `MONITOR` | Tekan sebentar untuk mengaktifkan fungsi Monitor. |
+| `F1Long` | `SPECTRUM` | Tekan lama untuk mengaktifkan mode Analisa Spektrum Frekuensi. |
+| `F2Shrt` | `SWITCH VFO` | Tekan sebentar untuk beralih VFO utama. |
+| `F2Long` | `SWITCH DEMODUL` | Tekan lama untuk mengubah Demodulasi. |
+| `M Long` | `FLASH LIGHT` | Tekan lama untuk mengaktifkan fungsi Jacklight. |
+
 ...
