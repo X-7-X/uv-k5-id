@@ -6,12 +6,18 @@ Sedang diusahakan untuk,
 - [ ] Menulis [Panduan Pengguna Super](./SU-Manual.md) sebagai
       acuan pihak-yang-ingin-berkontribusi dalam repositori ini; dan
 - [ ] akan di-*online*-kan di domain internasional dengan basis
-      `owl4ce/owl4ce.github.io` yang akan diadaptasi kemudian.
+      `owl4ce/owl4ce.github.io` yang akan diadaptasi.
+
+</div>
 
 > [!IMPORTANT]
-> Penulisan ini, maksud kami perobohan aturan FCC dan lisensi terkait, didasarkan pada
-> produk asli [Quansheng](http://en.qsfj.com), tanpa di-*endorse*, dengan **UV-K5(8)**
-> atau **UV-K6** secara internasional dan **UV-K5** sebagai objek utama yang diamati.
+> <div align="justify">
+> Penulisan ini, maksud kami perobohan aturan FCC dan lisensi terkait, didasarkan pada produk asli
+> <a href="http://en.qsfj.com">Quansheng</a>, tanpa di-<i>endorse</i>, dengan <b>UV-K5(8)</b> atau
+> <b>UV-K6</b> secara internasional dan <b>UV-K5</b> sebagai objek utama yang diamati.
+> </div>
+
+<div align="justify">
 
 Setangkai mawar dari Hortensia V.,
 > ... dan tetaplah *ngebrak-ngebrik*, *ngintel*, atau sekadar sibuk mencari sinyal alien.
