@@ -165,4 +165,10 @@ Fungsi pengisian daya TYPE-C pada rangkaian produk ini bersifat opsional.<br>
 Konfigurasi produk sesuai dengan pembelian Anda yang sebenarnya.
 </p>
 
+## Tampilan LCD
+
+Anda dapat memeriksa simbol-simbol berbeda yang ditunjuk di LCD.
+
+<!-- Mungkin akan diperbarui pada suatu saat nanti. -->
+
 ...
