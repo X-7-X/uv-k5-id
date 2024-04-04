@@ -14,7 +14,7 @@ Sedang diusahakan untuk,
 > <div align="justify">
 > Penulisan ini, maksud kami perobohan aturan FCC dan lisensi terkait, didasarkan pada produk asli
 > <a href="http://en.qsfj.com">Quansheng</a>, tanpa di-<i>endorse</i>, dengan <b>UV-K5(8)</b> atau
-> <b>UV-K6</b> secara internasional dan <b>UV-K5</b> sebagai objek utama yang diamati.
+> <b>UV-K6</b> secara internasional dan <b>UV-K5</b> sebagai objek.
 > </div>
 
 <div align="justify">
@@ -22,6 +22,6 @@ Sedang diusahakan untuk,
 Setangkai mawar dari Hortensia V.,
 > ... dan tetaplah *ngebrak-ngebrik*, *ngintel*, atau sekadar sibuk mencari sinyal alien.
 > Alih-alih gimik dengan (dan melalui) ~~media~~ maya sosial. Atau lebih mengerikan, hasad.
-> Karena kami lelah dengan penyentralan, secara inheren, *authoritarianism*.
+> Karena kami lelah dengan penyentralan.
 
 </div>
