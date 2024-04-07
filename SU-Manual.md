@@ -62,7 +62,7 @@ Dan ini memberi Anda informasi penting tentang cara mengoperasikan radio portabe
 
 - Pengisi daya TYPE-C hanya digunakan untuk pengisian daya darurat.
   Gunakan pengisi daya basis-dudukan untuk pengisian daya normal.
-- Logo kepala pengisian daya TYPE-C ditampilkan di layar saat dimulai dan mengisi daya.
+- Logo kepala pengisian daya TYPE-C ditampilkan pada layar saat dimulai dan mengisi daya.
 - Mematikan tidak memengaruhi pengisian daya TYPE-C.
 - Saat mengisi daya, lampu biru akan menyala lama,
   dan lampu biru akan berkedip untuk menandakan bahwa pengisian daya akan segera selesai.
@@ -167,7 +167,7 @@ Konfigurasi produk sesuai dengan pembelian Anda yang sebenarnya.
 
 ## Tampilan LCD
 
-Anda dapat memeriksa simbol-simbol berbeda yang ditunjuk di LCD.
+Anda dapat memeriksa simbol-simbol berbeda yang ditunjuk pada LCD.
 
 <!-- Mungkin akan diperbarui pada suatu saat nanti. -->
 
@@ -187,15 +187,15 @@ Tekan "PTT" untuk mengirim dan berbicara ke mikrofon. Lepaskan "PTT" untuk mener
 | `FLASH LIGHT` | Non/Aktifkan fungsi Jacklight: NYALA/KEDIP/SOS. |
 | `POWER` | Ubah Daya Keluaran Radio: H (TINGGI)/M (SEDANG)/L (RENDAH). |
 | `MONITOR` | Non/Aktifkan fungsi Monitor. |
-| `SCAN` | Mulai Pemindaian di mode saluran/frekuensi. |
+| `SCAN` | Mulai Pemindaian pada mode saluran/frekuensi. |
 | `VOX` | Non/Aktifkan VOX, transmisikan suara secara terus-menerus. |
 | `FM RADIO` | Non/Aktifkan mode Radio FM. |
-| `LOCK KEYPAD` | Buka/Kunci Papan Tombol. |
+| `LOCK KEYPAD` | Buka/Kunci Tombol Keypad. |
 | `SWITCH VFO` | Beralih VFO utama: ATAS/BAWAH. |
 | `VFO/MR` | Ubah mode VFO saat ini: SALURAN/FREKUENSI. |
 | `SWITCH DEMODUL` | Ubah Demodulasi: USB (SSB)/AM/FM. |
 | `SWITCH BANDWIDTH` | Ubah Lebar Pita saat ini. |
-| `SPECTRUM` | Aktifkan mode Analisa Spektrum Frekuensi di mode saluran/frekuensi. |
+| `SPECTRUM` | Aktifkan mode Analisa Spektrum Frekuensi pada mode saluran/frekuensi. |
 
 **Fungsi Yang Disarankan (@owl4ce)**
 
@@ -206,5 +206,49 @@ Tekan "PTT" untuk mengirim dan berbicara ke mikrofon. Lepaskan "PTT" untuk mener
 | `F2Shrt` | `SWITCH VFO` | Tekan sebentar untuk beralih VFO utama. |
 | `F2Long` | `SWITCH DEMODUL` | Tekan lama untuk mengubah Demodulasi. |
 | `M Long` | `FLASH LIGHT` | Tekan lama untuk mengaktifkan fungsi Jacklight. |
+
+### Tombol Keypad (Sebelah Depan)
+
+#### *`M`* – Tombol Menu/Konfirmasi
+
+1. Di halaman utama, tekan sebentar untuk masuk ke menu,
+   pilih item menu dan tekan tombol *`M`* untuk mengonfirmasi parameter.
+2. Dalam Pemindaian saluran/frekuensi, tekan sebentar untuk mempertahankan/menampilkan
+   saluran terakhir yang ditemukan pada layar.
+3. Tekan lama tombol ini untuk aksi dari fungsi yang telah diatur pada menu.
+   Lihat "Tombol Fungsi Yang Dapat Diatur Dan Fungsinya" di atas.
+4. Kombinasi bersama tombol `F` akan mengaktifkan mode SMS: `F` + *`M`*.
+
+#### *`EXIT`* – Tombol Keluar/Hapus
+
+1. Dalam status Pengaturan, tekan sebentar untuk keluar dan masuk kembali ke menu atas;
+   tekan lama untuk keluar dan sampai kembali ke halaman utama. Lihat nomor satu (1) dari tombol *`M`* di atas.
+2. Dalam status Masukan, tekan sebentar untuk menghapus satu aksara dari info masukan;
+   tekan lama untuk menghapus seluruh info masukan.
+
+#### `▲` – Tombol Navigasi Atas
+
+1. Dalam halaman menu, tekan untuk memindahkan fokus pilihan item ke atas.
+2. Selain nomor satu (1), tekan untuk mengubah pilihan yang aktif saat ini ke atas.
+
+#### `▼` – Tombol Navigasi Bawah
+
+1. Dalam halaman menu, tekan untuk memindahkan fokus pilihan item ke bawah.
+2. Selain nomor satu (1), tekan untuk mengubah pilihan yang aktif saat ini ke bawah.
+
+#### `*` – Tombol Bintang/Pemindaian
+
+1. Tekan sebentar tombol `*` untuk masuk ke panggilan manual dan halaman panggilan (DTMF).
+2. Dalam mode saluran, tekan lama untuk mulai Pemindaian saluran.
+3. Dalam mode frekuensi, tekan lama untuk mulai Pemindaian frekuensi,
+   dapat difungsikan dengan Rentang Pemindaian Frekuensi.
+4. Saat Pemindaian saluran sedang berlangsung, tekan untuk mengubah daftar pemindaian: 1/2/SEMUA.
+5. Kombinasi bersama tombol `F` akan mengaktifkan Pemindai CTCSS untuk frekuensi saat ini: `F` + `*`.
+
+#### `F` – Tombol Kombinasi Fungsi
+
+1. Tekan sebentar tombol `F`. Kemudian, tekan tombol dari rentang `0` hingga
+   `9`, atau tombol `*`, untuk cepat-terapkan peralihan fungsi tombol.
+2. Tekan lama tombol ini untuk buka/kunci seluruh tombol keypad.
 
 ...
