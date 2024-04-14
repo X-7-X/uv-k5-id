@@ -1,3 +1,7 @@
+<pre align="center">
+<img align="center" width="96%" src="https://raw.githubusercontent.com/owl4ce/uv-k5-id/main/src-images/quansheng-uv-k6-uv-k5-owl4ce.webp"/>
+</pre>
+
 ```
 RADIO DUA-ARAH MULTIFUNGSI
 
@@ -151,13 +155,13 @@ Kami menyarankan Anda memeriksa barang-barang berikut sebelum membuang bahan kem
 ### Foto Aksesori
 
 <pre align="center">
-<img align="center" width="96%" src="./src-images/accessories-photo.webp"/>
+<img align="center" width="96%" src="https://raw.githubusercontent.com/owl4ce/uv-k5-id/main/src-images/accessories-photo.webp"/>
 </pre>
 
 ## Diagram Radio
 
 <pre align="center">
-<img align="center" width="96%" src="./src-images/radio-diagram.webp"/>
+<img align="center" width="96%" src="https://raw.githubusercontent.com/owl4ce/uv-k5-id/main/src-images/radio-diagram.webp"/>
 </pre>
 
 <p align="center">
@@ -272,4 +276,13 @@ Tekan "PTT" untuk mengirim dan berbicara ke mikrofon. Lepaskan "PTT" untuk mener
 | `F` + `*` | SCAN | Mengaktifkan Pemindai CTCSS/DCS untuk frekuensi saat ini. |
 | `F` + `0` | FM | Mengaktifkan mode Radio FM. |
 
-...
+<!-- ... -->
+
+Dalam proses penyusunan dan pengalihan bahasa ...
+
+> [!IMPORTANT]
+> <div align="justify">
+> Penulisan ini, maksud kami perobohan aturan FCC dan lisensi terkait, didasarkan pada produk asli
+> <a href="http://en.qsfj.com">Quansheng</a> tanpa di-<i>endorse</i>, dengan <b>UV-K5(8)</b> atau
+> <b>UV-K6</b> secara internasional dan <b>UV-K5</b> sebagai objek.
+> </div>
