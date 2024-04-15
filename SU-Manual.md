@@ -271,10 +271,35 @@ Tekan "PTT" untuk mengirim dan berbicara ke mikrofon. Lepaskan "PTT" untuk mener
 | `F` + `5` | ~~NOAA~~ | Mengaktifkan mode Analisa Spektrum Frekuensi. |
 | `F` + `6` | H/M/L | Mengubah Daya Keluaran Radio: H (TINGGI)/M (SEDANG)/L (RENDAH). |
 | `F` + `7` | VOX | Mengaktifkan VOX, transmisikan suara secara terus-menerus. |
-| `F` + `8` | R | Mengaktifkan mode Terbalik untuk saluran yang frekuensi-offset-nya diatur, menimpa frekuensi TX dengan RX. |
+| `F` + `8` | R | Mengaktifkan mode Terbalik untuk saluran yang frekuensi-*offset*-nya diatur, menimpa frekuensi TX dengan RX. |
 | `F` + `9` | CALL | Mengalihkan saluran saat ini ke saluran Panggilan Darurat `1-Call` yang diatur pada menu. |
 | `F` + `*` | SCAN | Mengaktifkan Pemindai CTCSS/DCS untuk frekuensi saat ini. |
 | `F` + `0` | FM | Mengaktifkan mode Radio FM. |
+
+## Informasi Menu
+
+Tekan sebentar tombol *`M`* untuk masuk ke menu; Tekan tombol `▲`/`▼` untuk menavigasi pilihan/parameter,
+dan tekan tombol *`M`* untuk mengonfirmasi parameter; Tekan sebentar tombol *`EXIT`* untuk kembali ke menu atas.
+Tekan lama tombol *`EXIT`* untuk kembali ke halaman utama.
+
+| Nomor | Parameter | Fungsi | Pilihan Parameter |
+|:---|:---|:---|:---|
+| 1 | `Step` | Langkah Frekuensi dalam kHz. | 0.01, 0.05, 0.10, 0.25, 0.50, 1.00, 1.25, 2.50, 5.00, 6.25, 8.33, 10.00, 12.50, 15.00, 25.00, 30.00, 50.00, 100.00, 125.00, 250.00, 500.00. |
+| 2 | `Bandw` | Lebar Pita yang digunakan dan ditampilkan dalam format k(ilo), daripada N(arrow)/W(ide). | 5, 6.25, 8.33, 12.5, 25. |
+| 3 | `TxPwr` | Daya Keluaran Radio; VHF 144Mhz: H ~4.6W, M ~3W, L ~1W. | LOW, MID, HIGH. |
+| 4 | `RxDCS` | *Receiver Digital-Coded Squelch*, jika mengaktifkan ini, maka *squelch* hanya akan terbuka bila kode ini diterima. | ... |
+| 5 | `RxCTCS` | *Receiver Continuous Tone-Coded Squelch System*, *squelch* hanya akan terbuka bila kode ini diterima. | ... |
+| 6 | `TxDCS` | *Transmitter Digital-Coded Squelch*, radio akan mengirimkan kode yang diberikan saat melakukan transmisi. | ... |
+| 7 | `TxCTCS` | *Transmitter Continuous Tone-Coded Squelch System*, radio akan mengirimkan kode yang diberikan saat melakukan transmisi. | ... |
+| 8 | `TxODir` | Arah *Offset* Frekuensi Pemancar. | OFF, -, +. |
+| 9 | `TxOffs` | Nilai *Offset* Frekuensi Pemancar. | Isi manual dalam Mhz! |
+| 10 | `RxOffs` | Nilai *Offset* Frekuensi Penerima. | Isi manual dalam Mhz! |
+| 11 | `Scramb` | Pengacak, distorsikan audio agar tidak dapat dipahami oleh pendengar lain. Jika radio menggunakan pengaturan yang sama, maka mereka dapat berkomunikasi dengan jelas. | OFF, 2600Hz, 2700Hz, 2800Hz, 2900Hz, 3000Hz, 3100Hz, 3200Hz, 3300Hz, 3400Hz, 3500Hz. |
+| 12 | `BusyCL` | Penguncian Saluran Sibuk, halangi transmisi radio karena sinyal diterima; dengan *BUSY* pada layar saat PTT ditekan. | OFF, ON. |
+| 13 | `Compnd` | Kompander, *compressor-expander*, memungkinkan sinyal dengan rentang dinamis besar ditransmisikan melalui fasilitas yang memiliki kemampuan rentang dinamis lebih kecil. Ini meningkatkan kualitas audio dan kedua radio harus menggunakan pengaturan yang sama. | OFF, TX, RX, TX/RX. |
+| 14 | `Demodu` | Mode Demodulator, FM untuk umum, AM/USB (SSB) hanya untuk mendengarkan/monitor. | FM, AM, USB. |
+| 15 | `RxAGC` | AGC Penerima yang berlaku untuk semua modulasi, memungkinkan melindungi radio dari gangguan yang disebabkan oleh penerimaan sinyal kuat. Pengaturan SLOW dengan rentang dinamis besar ideal secara keseluruhan dan mungkin berguna untuk stasiun HF-AM yang menyiarkan musik, FAST dengan rentang dinamis lebih kecil ideal untuk aviasi komunikasi singkat yang mana setiap kata sangatlah penting. | OFF, SLOW, FAST. |
+| .. | ... | ... | ... |
 
 <!-- ... -->
 
