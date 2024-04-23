@@ -317,14 +317,25 @@ Tekan lama tombol *`EXIT`* untuk kembali ke halaman utama.
 | 32 | `POnMsg` | Tampilkan Pesan sesaat Daya Hidup. | NONE, FULL, MESSAGE, VOLTAGE. |
 | 33 | `BatTxt` | Tampilkan Nilai Baterai tambahan pada status dalam persentase atau voltase. | NONE, VOLTAGE, PERCENT. |
 | 34 | `BackLt` | Durasi Nyala Lampu Latar Belakang. | OFF, 5 sec, 10 sec, 20 sec, 1 min, 2 min, 4 min, ON. |
-| 35 | `BLMin` | Kecerahan Minimal Lampu Latar Belakang. Saat lampu latar belakang layar padam, maka akan diredupkan ke nilai ini.  | 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. |
-| 36 | `BLMax` | Kecerahan Maksimal Lampu Latar Belakang. Saat lampu latar belakang layar menyala, maka akan dicerahkan ke nilai ini.  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. |
+| 35 | `BLMin` | Kecerahan Minimal Lampu Latar Belakang. Saat lampu latar belakang layar padam, maka akan diredupkan ke nilai ini. | 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. |
+| 36 | `BLMax` | Kecerahan Maksimal Lampu Latar Belakang. Saat lampu latar belakang layar menyala, maka akan dicerahkan ke nilai ini. | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. |
 | 37 | `BltTRX` | Aktivasi Lampu Latar Belakang saat transmisi (TX) atau penerimaan (RX). | OFF, TX, RX, TX/RX. |
 | 38 | `Beep` | Suara Beep saat tombol keypad ditekan. | OFF, ON. |
 | 39 | `Roger` | Tanda Roger selepas melakukan transmisi. | OFF, ROGER, MDC. |
 | 40 | `SqTone` | Nada Ekor *Squelch* yang digunakan untuk TX/RX saat CTCSS/DCS digunakan. Standar ialah 55.0Hz. | ... |
 | 41 | `1 Call` | Satu Tombol Memanggil Saluran, memungkinkan cepat-beralih ke saluran yang diatur dengan tombol kombinasi `F` + `9`. | Pilih manual saluran yang ingin diterapkan! |
 | 42 | `D Live` | Tampilkan kode DTMF yang diterima di tengah pada layar. | OFF, ON. |
+| 43 | `VOXSen` | Sensitivitas VOX. Atur tingkat sensitivitas suara aktivasi-TX, atau matikan sepenuhnya. | ... |
+| 44 | `VOXDel` | Keterlambatan VOX. Atur jarak keterlambatan suara aktivasi-TX yang mungkin berguna untuk paket radio, APRS, dan lain-lain. | ... |
+| 45 | `BatVol` | Informasi Voltase dan Persentase Baterai. Hanya menampilkan informasi terkait. | |
+| 46 | `RxMode` | Mode Penerimaan. Atur bagaimana frekuensi atas-bawah pada antarmuka akan digunakan. Pengaturan MAIN ONLY akan selalu mentransmisikan dan mendengarkan frekuensi utama, DUAL RX RESPOND dengan status `DWR` pada layar akan mendengarkan kedua frekuensi, CROSS BAND dengan status `XB` pada layar akan selalu mentransmisikan frekuensi utama dan mendengarkan frekuensi kedua, sedangkan MAIN TX DUAL RX dengan status `DW` pada layar akan mentransmisikan frekuensi utama dan mendengarkan kedua frekuensi. | MAIN ONLY, DUAL RX RESPOND, CROSS BAND, MAIN TX DUAL RX. |
+| 47 | `Passwd` | Atur Sandi PIN sesaat radio diaktifkan. Atur dengan memasukkan nomor PIN pada tombol keypad dan tekan tombol *`M`* untuk mengonfirmasi, OFF akan menonaktifkannya. Apabila gagal memasukkan sandi ketika mengaktifkan radio, sampai tiga (3) kali, maka radio akan diatur ulang pabrikan (*factory reset*). | OFF. |
+| 48 | `EncKey` | Menghadirkan nilai yang di-*hash* dari Kunci Enkripsi, dengan menekan tombol *`M`*, maka sepuluh karakter sandi baru dapat dimasukkan. | Isi manual! |
+| 49 | `MsgEnc` | Tentukan apakah Pesan Keluar Dienkripsi. | OFF, ON. |
+| 50 | `MsgRx` | Tentukan apakah modem fsk akan memperhatikan Pesan Masuk. | OFF, ON. |
+| 51 | `MsgAck` | Tentukan apakah radio akan otomatis merespon Pesan dengan ACK, ini mengindikasikan apakah pesan berhasil diterima. | OFF, ON. |
+| 52 | `MsgMod` | Modulasi SMS. Modulasi FSK 450 untuk kondisi buruk, FSK 700 untuk kondisi sedang, sedangkan AFSK 1.2K untuk kondisi bagus. | FSK 450, FSK 700, AFSK 1.2K. |
+| 53 | `Sql` | Sensitivitas *Squelch*. Memfilter penerimaan dengan tingkat *squelch* tertentu yang akan didengarkan. | 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. |
 | .. | ... | ... | ... |
 
 <!-- ... -->
