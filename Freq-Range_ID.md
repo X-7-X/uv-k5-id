@@ -17,15 +17,17 @@
 | 10 | VHF | 230–300MHz | WFM | Saluran Televisi VHF. |
 | 11 | VHF | 300–320MHz | AM | Radio Penerbangan Militer. |
 | 12 | VHF | 320–400MHz | FM | Radio Taksi. |
-| 13 | UHF | 400–420MHz | FM | Radio Polisi (*Trunk*) dan Jasa Keamanan. |
+| 13 | UHF | 400–420MHz | FM | Radio Polisi (*Trunking*) dan Jasa Keamanan. |
 | 14 | UHF | 420–440MHz | FM | ORARI. |
 | 15 | UHF | 440–460MHz | FM | Radio Polisi. |
 | 16 | UHF | 460–470MHz | FM | Radio Militer dan Instansi Pemerintahan. |
 | 17 | UHF | 470–500MHz | | |
 | 18 | UHF | 500–790MHz | WFM | Saluran Televisi UHF. |
-| 19 | UHF | 800–820MHz | FM | Radio Polisi (*Trunk*) dan Perusahaan Swasta. |
+| 19 | UHF | 800–820MHz | FM | Radio Polisi (*Trunking*) dan Perusahaan Swasta. |
 | 20 | UHF | 820–850MHz | | |
 | 21 | UHF | 850–860MHz | FM | Radio Polisi. |
 | 22 | UHF | 860–900MHz | | |
-| 23 | UHF | 900–920MHz | | *Trunk*. |
+| 23 | UHF | 900–920MHz | | *Trunking*. |
 | 24 | UHF | 920–960MHz | | Radio Polisi dan Militer. |
+
+Informasi lebih lanjut dapat dibaca di https://yatebts.com/documentation/concepts/radio-waves/radio-concepts/.

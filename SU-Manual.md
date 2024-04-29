@@ -1,5 +1,12 @@
+> [!IMPORTANT]
+> <div align="justify">
+> Penulisan ini, maksud kami perobohan aturan FCC dan lisensi terkait, didasarkan pada produk asli
+> <a href="http://en.qsfj.com">Quansheng</a> tanpa di-<i>endorse</i>, dengan <b>UV-K5(8)</b> atau
+> <b>UV-K6</b> secara internasional dan <b>UV-K5</b> sebagai objek.
+> </div>
+
 <pre align="center">
-<img align="center" width="96%" src="https://raw.githubusercontent.com/owl4ce/uv-k5-id/main/src-images/quansheng-uv-k6-uv-k5-owl4ce.webp"/>
+<img align="center" width="96%" src="./src-images/quansheng-uv-k6-uv-k5-owl4ce.webp"/>
 </pre>
 
 ```
@@ -13,12 +20,16 @@ Pengisian Daya TYPE-C dan Basis-dudukan/200 Saluran/
 Radio FM Fungsional/Demodulasi USB-AM-FM/SMS
 ```
 
+<!--
+
 ```
 Warnings removed due to modified firmware,
 with GREAT note: NO ILLEGAL TRANSMISSIONS.
 Even with unbelievable modified firmware.
 Even with power limitations. RF PowerAmp?
 ```
+
+-->
 
 ## PERHATIAN SEBELUM MENGGUNAKAN
 
@@ -154,13 +165,13 @@ Kami menyarankan Anda memeriksa barang-barang berikut sebelum membuang bahan kem
 ### Foto Aksesori
 
 <pre align="center">
-<img align="center" width="96%" src="https://raw.githubusercontent.com/owl4ce/uv-k5-id/main/src-images/accessories-photo.webp"/>
+<img align="center" width="96%" src="./src-images/accessories-photo.webp"/>
 </pre>
 
 ## Diagram Radio
 
 <pre align="center">
-<img align="center" width="96%" src="https://raw.githubusercontent.com/owl4ce/uv-k5-id/main/src-images/radio-diagram.webp"/>
+<img align="center" width="96%" src="./src-images/radio-diagram.webp"/>
 </pre>
 
 <p align="center">
@@ -336,7 +347,7 @@ Tekan lama tombol *`EXIT`* untuk kembali ke halaman utama.
 | 51 | `MsgAck` | Tentukan apakah radio akan otomatis merespon Pesan dengan ACK, ini mengindikasikan apakah pesan berhasil diterima. | OFF, ON. |
 | 52 | `MsgMod` | Modulasi SMS. Modulasi FSK 450 untuk kondisi buruk, FSK 700 untuk kondisi sedang, sedangkan AFSK 1.2K untuk kondisi bagus. | FSK 450, FSK 700, AFSK 1.2K. |
 | 53 | `Sql` | Sensitivitas *Squelch*. Memfilter penerimaan dengan tingkat *squelch* tertentu yang akan didengarkan. | 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. |
-| ⚠ | **☰** | **Tekan dan tahan Tombol PTT dan Tombol Samping 1 bersamaan dengan Mengaktifkan Radio. Kemudian, lepaskan semua tombol.** | |
+| | **Lanjutan** | **Tekan dan tahan Tombol PTT dan Tombol Samping 1 bersamaan dengan Mengaktifkan Radio. Kemudian, lepaskan semua tombol.** | |
 | 54 | `F Lock` | Band Frekuensi TX. Atur band frekuensi yang diizinkan untuk melakukan transmisi dengan aman. | DEFAULT+ (137—174) (400—470), FCC HAM (144—148) (420—450), CE HAM (144—146) (430—440), GB HAM (144—148) (430—440), (137—174) (400—430), (137—174) (400—438), DISABLE ALL. |
 | 55 | `Tx 200` | Izinkan TX pada 200MHz. | OFF, ON. |
 | 56 | `Tx 350` | Izinkan TX pada 350MHz. | OFF, ON. |
@@ -349,11 +360,4 @@ Tekan lama tombol *`EXIT`* untuk kembali ke halaman utama.
 
 <!-- ... -->
 
-Dalam proses penyusunan dan pengalihan bahasa ...
-
-> [!IMPORTANT]
-> <div align="justify">
-> Penulisan ini, maksud kami perobohan aturan FCC dan lisensi terkait, didasarkan pada produk asli
-> <a href="http://en.qsfj.com">Quansheng</a> tanpa di-<i>endorse</i>, dengan <b>UV-K5(8)</b> atau
-> <b>UV-K6</b> secara internasional dan <b>UV-K5</b> sebagai objek.
-> </div>
+Dalam proses penyusunan struktur dan pengalihan bahasa ...
