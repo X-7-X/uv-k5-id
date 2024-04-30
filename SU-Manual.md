@@ -358,6 +358,29 @@ Tekan lama tombol *`EXIT`* untuk kembali ke halaman utama.
 | 61 | `BatTyp` | Tipe Baterai. Baterai dengan kapasitas yang berbeda memiliki kurva pengosongan yang berbeda, ini digunakan untuk menghitung tingkat persentase baterai. | 1600mAh, 2200mAh. |
 | 62 | `Reset` | Atur Ulang. Menghapus VFO hanya akan menghapus pengaturan saluran, sedangkan ALL akan menghapus seluruh pengaturan radio. | VFO, ALL. |
 
+## Operasi Umum Radio
+
+### Operasi Dasar dan Konfigurasi
+
+Tampilan radio dibagi menjadi dua, saluran/frekuensi (VFO) yang atas dan yang bawah. Anda dapat mengalihkan atas/bawah
+dengan menekan tombol kombinasi `F` + `2`, atau dengan tekan lama tombol `2`.
+
+- VFO utama ditandai dengan `▶`, dan PTT aktif dengan indikator `▶ TX`.
+- Penerimaan akan ditandai dengan indikator `RX` segera sesaat sinyal diterima, sementara VFO lain diblokir.
+- Dengan DUAL RX RESPOND, VFO kedua ditandai dengan `>` secara sementara (layaknya VFO utama) ketika sinyal diterima.
+- Bila tiada sinyal yang diterima setelah empat (4) detik, dengan status `><` pada layar, maka indikator status
+tersebut akan kedaluwarsa.
+
+Setiap VFO dapat beroperasi secara independen dari setiap fungsi lain pada mode saluran/frekuensi. Untuk mengubah mode,
+pilih VFO atas/bawah yang dituju dan tekan tombol kombinasi `F` + `3`, atau dengan tekan lama tombol `3`.
+
+Dalam mode frekuensi, Anda perlu memasukkan frekuensi secara manual menggunakan tombol keypad. Anda juga dapat mengubah
+pilihan yang berbeda untuk pengaturan VFO spesifik: tiga belas (13) parameter pertama pada menu. Jika Anda sedang
+menyiapkan VFO, pengaturan dapat disimpan ke saluran memori dengan pergi ke parameter `ChSave` pada menu.
+
+Dalam mode saluran, Anda dapat beralih antar saluran memori yang tersimpan. Saluran memori dapat ditambahkan secara
+manual seperti pada penjelasan sebelumnya, atau dengan perangkat lunak komputer tertentu.
+
 <!-- ... -->
 
 Dalam proses penyusunan struktur dan pengalihan bahasa ...
