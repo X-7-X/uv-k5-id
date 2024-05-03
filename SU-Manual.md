@@ -206,7 +206,7 @@ Tekan "PTT" untuk mengirim dan berbicara ke mikrofon. Lepaskan "PTT" untuk mener
 | `FM RADIO` | Non/Aktifkan mode Radio FM. |
 | `LOCK KEYPAD` | Buka/Kunci Tombol Keypad. |
 | `SWITCH VFO` | Beralih VFO utama: ATAS/BAWAH. |
-| `VFO/MR` | Ubah mode aktif saat ini: SALURAN/FREKUENSI. |
+| `VFO/MR` | Ubah mode aktif saat ini: SALURAN/FREKUENSI (MR/VFO). |
 | `SWITCH DEMODUL` | Ubah Demodulasi: USB (SSB)/AM/FM. |
 | `SWITCH BANDWIDTH` | Ubah Lebar Pita saat ini. |
 | `SPECTRUM` | Aktifkan mode Analisa Spektrum Frekuensi pada mode saluran/frekuensi. |
@@ -275,8 +275,8 @@ Tekan "PTT" untuk mengirim dan berbicara ke mikrofon. Lepaskan "PTT" untuk mener
 |:---|:---|:---|
 | `F` + *`M`* | MESSENGER | Mengaktifkan mode SMS untuk frekuensi saat ini. |
 | `F` + `1` | BAND | Mengalihkan Band Frekuensi dalam mode frekuensi: 1-7+ (1GHz+). Pengaturan saluran disalin ke mode frekuensi dalam mode saluran. |
-| `F` + `2` | A/B | Mengalihkan Saluran/Frekuensi (VFO) utama, yang ditandai dengan panah-kanan: ATAS/BAWAH. |
-| `F` + `3` | VFO/MR | Mengubah mode aktif saat ini: SALURAN/FREKUENSI. |
+| `F` + `2` | A/B | Mengalihkan Saluran/Frekuensi (MR/VFO) utama, yang ditandai dengan panah-kanan: ATAS/BAWAH. |
+| `F` + `3` | VFO/MR | Mengubah mode aktif saat ini: SALURAN/FREKUENSI (MR/VFO). |
 | `F` + `4` | FC | Mengaktifkan mode Salin Cepat Satu Saluran, simpan data dengan tombol *`M`*. |
 | `F` + `5` | ~~NOAA~~ | Mengaktifkan mode Analisa Spektrum Frekuensi. |
 | `F` + `6` | H/M/L | Mengubah Daya Keluaran Radio: H (TINGGI)/M (SEDANG)/L (RENDAH). |
@@ -309,11 +309,11 @@ Tekan lama tombol *`EXIT`* untuk kembali ke halaman utama.
 | 13 | `Compnd` | Kompander, *compressor-expander*, memungkinkan sinyal dengan rentang dinamis besar ditransmisikan melalui fasilitas yang memiliki kemampuan rentang dinamis lebih kecil. Ini meningkatkan kualitas audio dan kedua radio harus menggunakan pengaturan yang sama. | OFF, TX, RX, TX/RX. |
 | 14 | `Demodu` | Mode Demodulator, FM untuk umum, AM/USB (SSB) hanya untuk mendengarkan/monitor. | FM, AM, USB. |
 | 15 | `RxAGC` | AGC Penerima yang berlaku untuk semua modulasi, memungkinkan melindungi radio dari gangguan yang disebabkan oleh penerimaan sinyal kuat. Pengaturan SLOW dengan rentang dinamis besar ideal secara keseluruhan dan mungkin berguna untuk stasiun HF-AM yang menyiarkan musik, FAST dengan rentang dinamis lebih kecil ideal untuk aviasi komunikasi singkat yang mana setiap kata sangatlah penting. | OFF, SLOW, FAST. |
-| 16 | `ScAdd1` | Tambahkan saluran ke daftar Pemindaian Satu (I). | OFF, ON. |
-| 17 | `ScAdd2` | Tambahkan saluran ke daftar Pemindaian Dua (II). | OFF, ON. |
-| 18 | `ChSave` | Simpan frekuensi dan pengaturan saat ini ke saluran memori. | Pilih manual saluran yang ingin disimpan dan ditimpa! |
-| 19 | `ChDele` | Hapus saluran memori yang tersimpan. | Pilih manual saluran yang ingin dihapus! |
-| 20 | `ChName` | Ubah nama saluran memori yang tersimpan. | Pilih manual saluran yang ingin diubah namanya! |
+| 16 | `ScAdd1` | Tambahkan saluran ke daftar Pindaian Satu (I). | OFF, ON. |
+| 17 | `ScAdd2` | Tambahkan saluran ke daftar Pindaian Dua (II). | OFF, ON. |
+| 18 | `ChSave` | Simpan frekuensi dan pengaturan saat ini ke saluran-memori. | Pilih manual saluran yang ingin disimpan dan ditimpa! |
+| 19 | `ChDele` | Hapus saluran-memori yang tersimpan. | Pilih manual saluran yang ingin dihapus! |
+| 20 | `ChName` | Ubah nama saluran-memori yang tersimpan. | Pilih manual saluran yang ingin diubah namanya! |
 | 21 | `ScnRev` | Mode Pemindaian Kelanjutan. Pengaturan CARRIER akan melanjutkan pemindaian setelah sinyal lenyap, TIMEOUT akan melanjutkan pemindaian setelah lima (5) detik jeda, sedangkan STOP akan menghentikan pemindaian setelah sinyal diterima. | CARRIER, TIMEOUT, STOP. |
 | 22 | `F1Shrt` | Fungsi Tekan Sebentar Tombol Samping 1. | Lihat "Tombol Fungsi Yang Dapat Diatur Dan Fungsinya" di atas! |
 | 23 | `F1Long` | Fungsi Tekan Lama Tombol Samping 1. | Lihat "Tombol Fungsi Yang Dapat Diatur Dan Fungsinya" di atas! |
@@ -362,24 +362,52 @@ Tekan lama tombol *`EXIT`* untuk kembali ke halaman utama.
 
 ### Operasi Dasar dan Konfigurasi
 
-Tampilan radio dibagi menjadi dua, saluran/frekuensi (VFO) yang atas dan yang bawah. Anda dapat mengalihkan atas/bawah
-dengan menekan tombol kombinasi `F` + `2`, atau dengan tekan lama tombol `2`.
+Tampilan radio dibagi menjadi dua, saluran/frekuensi (MR/VFO) yang atas dan yang bawah. Anda dapat mengalihkan
+atas/bawah dengan menekan tombol kombinasi `F` + `2`, atau dengan tekan lama tombol `2`.
 
 - VFO utama ditandai dengan `▶`, dan PTT aktif dengan indikator `▶ TX`.
 - Penerimaan akan ditandai dengan indikator `RX` segera sesaat sinyal diterima, sementara VFO lain diblokir.
 - Dengan DUAL RX RESPOND, VFO kedua ditandai dengan `>` secara sementara (layaknya VFO utama) ketika sinyal diterima.
-- Bila tiada sinyal yang diterima setelah empat (4) detik, dengan status `><` pada layar, maka indikator status
-tersebut akan kedaluwarsa.
+- Bila tiada sinyal yang diterima setelah empat (4) detik, dengan status `><` pada layar,
+  maka indikator status tersebut akan kedaluwarsa.
 
 Setiap VFO dapat beroperasi secara independen dari setiap fungsi lain pada mode saluran/frekuensi. Untuk mengubah mode,
 pilih VFO atas/bawah yang dituju dan tekan tombol kombinasi `F` + `3`, atau dengan tekan lama tombol `3`.
 
 Dalam mode frekuensi, Anda perlu memasukkan frekuensi secara manual menggunakan tombol keypad. Anda juga dapat mengubah
 pilihan yang berbeda untuk pengaturan VFO spesifik: tiga belas (13) parameter pertama pada menu. Jika Anda sedang
-menyiapkan VFO, pengaturan dapat disimpan ke saluran memori dengan pergi ke parameter `ChSave` pada menu.
+menyiapkan VFO, pengaturan dapat disimpan ke saluran-memori dengan pergi ke parameter `ChSave` pada menu.
 
-Dalam mode saluran, Anda dapat beralih antar saluran memori yang tersimpan. Saluran memori dapat ditambahkan secara
+Dalam mode saluran, Anda dapat beralih antar saluran-memori yang tersimpan. Saluran-memori dapat ditambahkan secara
 manual seperti pada penjelasan sebelumnya, atau dengan perangkat lunak komputer tertentu.
+
+### Pemindaian Saluran/Frekuensi (MR/VFO)
+
+#### Pemindaian Frekuensi
+
+Untuk memulai pemindaian frekuensi, ubah mode saluran (MR) ke frekuensi (VFO). Atur frekuensi awal dan langkah
+frekuensi (lihat menu nomor 1). Mulai pemindaian dengan tekan lama tombol `*`.
+
+##### Rentang Pemindaian Frekuensi (ScnRng)
+
+1. Ubah mode ke frekuensi, setidaknya satu VFO (dari dua) dan yang lain dapat MR atau VFO.
+2. Atur frekuensi VFO yang atas dan yang bawah untuk menentukan rentang frekuensi yang akan dipindai.
+3. Tekan lama tombol `5`, dan status `ScnRng` akan ditampilkan pada layar.
+4. Mulai pindai dengan tekan lama tombol `*`.
+5. Tekan sebentar tombol *`EXIT`* atau PTT untuk menghentikan pemindaian ke frekuensi
+   awal/terakhir dari sinyal yang diterima, dan lanjutkan dengan tombol `*`; atau
+6. Tekan lama tombol *`EXIT`* untuk keluar dari mode pemindaian ScnRng.
+
+Mode pemindaian ini juga didukung mode Analisa Spektrum Frekuensi. Bilamana Anda mengaktifkan pemindaian ScnRng,
+lalu aktifkan saja mode Analisa Spektrum Frekuensi.
+
+#### Pemindaian Saluran-Memori
+
+Untuk memindai saluran yang tersimpan dalam memori radio, ubah mode frekuensi (VFO) ke saluran (MR).
+Radio memiliki dua (2) daftar pindaian. Setiap saluran-memori dapat menjadi bagian dari daftar pindaian
+0, 1, atau 2. Untuk menambahkan/menghapus saluran dari daftar, pilih saluran yang dituju pada VFO utama,
+dan pergi ke parameter `ScAdd1`/`ScAdd2` pada menu. Atau, dengan tekan lama tombol `5`, Anda dapat melihat
+indikator `I` dan `II` silih berganti hidup atau mati di sisi kanan dari label saluran pada layar.
 
 <!-- ... -->
 
