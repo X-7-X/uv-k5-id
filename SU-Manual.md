@@ -1,12 +1,5 @@
-> [!IMPORTANT]
-> <div align="justify">
-> Penulisan ini, maksud kami perobohan aturan FCC dan lisensi terkait, didasarkan pada produk asli
-> <a href="http://en.qsfj.com">Quansheng</a> tanpa di-<i>endorse</i>, dengan <b>UV-K5(8)</b> atau
-> <b>UV-K6</b> secara internasional dan <b>UV-K5</b> sebagai objek.
-> </div>
-
 <pre align="center">
-<img align="center" width="96%" src="./src-images/quansheng-uv-k6-uv-k5-owl4ce.webp"/>
+<img align="center" width="96%" src="./src-images/quansheng-uv-k6-uv-k5-broadcast-owl4ce.webp"/>
 </pre>
 
 ```
@@ -411,4 +404,4 @@ indikator `I` dan `II` silih berganti hidup atau mati di sisi kanan dari label s
 
 <!-- ... -->
 
-Dalam proses penyusunan struktur dan pengalihan bahasa ...
+**Dalam proses penyusunan struktur dan pengalihan bahasa ...**
